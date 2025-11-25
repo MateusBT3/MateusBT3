@@ -29,7 +29,3 @@ Olá! Meu nome é Mateus Toledo e estou cursando Sistemas de Informação <img s
   <img width="0" />
   <img src="https://skillicons.dev/icons?i=windows" height="50" alt="windows logo"  />
 </div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MateusBT3&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=false" height="150" alt="languages graph"  />
-</div>
